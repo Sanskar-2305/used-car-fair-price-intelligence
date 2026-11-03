@@ -209,19 +209,20 @@ Open the Power BI `.pbix` file using Power BI Desktop to interact with the dashb
 - 
 ## 📸 Dashboard Preview
 
-AUTOMARKET features three interactive Power BI dashboard pages designed to explore the used-car market, evaluate vehicle prices and discover potential deals.
-
 ### 01 — Market Overview
 
-![Market Overview](screenshots/MARKET OVERVIEW.png)
+![Market Overview](screenshots/MARKET%20OVERVIEW.png)
 
 ### 02 — Valuation Lab
 
-![Valuation Lab](screenshots/VALUATION LAB.png)
+![Valuation Lab](screenshots/VALUATION%20LAB.png)
 
 ### 03 — Deal Room
 
-![Deal Room](screenshots/DEAL ROOM.png)
+![Deal Room](screenshots/DEAL%20ROOM.png)
+
+
+
 ## 👨‍💻 Author
 
 
