@@ -221,7 +221,9 @@ Open the Power BI `.pbix` file using Power BI Desktop to interact with the dashb
 
 ![Deal Room](screenshots/DEAL%20ROOM.png)
 
+## 📥 Download the Power BI Dashboard
 
+[Download AUTOMARKET Power BI Dashboard (.pbix)](Dashboard/AUTOMARKET_Used_Car_Intelligence.pbix)
 
 ## 👨‍💻 Author
 
