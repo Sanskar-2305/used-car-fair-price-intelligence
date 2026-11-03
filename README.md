@@ -213,15 +213,15 @@ AUTOMARKET features three interactive Power BI dashboard pages designed to explo
 
 ### 01 — Market Overview
 
-![Market Overview](screenshots/market-overview.png)
+![Market Overview](screenshots/MARKET OVERVIEW.png)
 
 ### 02 — Valuation Lab
 
-![Valuation Lab](screenshots/valuation-lab.png)
+![Valuation Lab](screenshots/VALUATION LAB.png)
 
 ### 03 — Deal Room
 
-![Deal Room](screenshots/deal-room.png)
+![Deal Room](screenshots/DEAL ROOM.png)
 ## 👨‍💻 Author
 
 
